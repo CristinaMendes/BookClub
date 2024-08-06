@@ -7,7 +7,7 @@ Before you begin, make sure you have the following installed:
 *   Python 3.6+
 *   pip
 *   Selenium
-*   ChromeDriver (compatível com a versão do seu navegador)
+*   ChromeDriver (compatible with your browser version)
 *   pandas
 
 ## Authors
